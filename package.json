@@ -1,0 +1,19 @@
+{
+  "name": "cypressgoitnauka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.10.0"
+  },
+  "dependencies": {
+    "and": "^0.0.3",
+    "build": "^0.1.4",
+    "test": "^3.3.0"
+  }
+}
